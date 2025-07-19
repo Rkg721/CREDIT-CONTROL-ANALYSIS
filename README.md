@@ -27,7 +27,6 @@ This project demonstrates how to automate **Credit Control and Overdue Invoice T
 | File Name | Description |
 |-----------|-------------|
 | `creditcontrolplotly.ipynb` | Jupyter notebook with full Python code, data processing, and chart rendering |
-| `sample_data.csv` *(optional)* | Sample dataset of invoices and due dates |
 | `README.md` | Project overview and instructions |
 
 
