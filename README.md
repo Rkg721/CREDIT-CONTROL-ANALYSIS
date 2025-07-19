@@ -30,32 +30,7 @@ This project demonstrates how to automate **Credit Control and Overdue Invoice T
 | `sample_data.csv` *(optional)* | Sample dataset of invoices and due dates |
 | `README.md` | Project overview and instructions |
 
----
 
-## 📸 Sample Output (Screenshots)
-*(Attach if available)*  
-- Aging bar chart by date  
-- Overdue invoice counts by category  
-- Highlighted trends for quick follow-up  
-
----
-
-## 🔄 How to Run
-1. Clone this repo  
-```bash
-git clone https://github.com/rakeshgupta1984/credit-control-dashboard.git
-cd credit-control-dashboard
-```
-
-2. Install required libraries  
-```bash
-pip install pandas plotly
-```
-
-3. Open the notebook  
-```bash
-jupyter notebook creditcontrolplotly.ipynb
-```
 
 ---
 
